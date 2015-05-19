@@ -24,14 +24,14 @@ table{ font-family:Verdana, Geneva, sans-serif; font-size:13px; font-weight:bold
   <tr>
     <td align="center"><input type="radio" name="a" value="25">25</td>
     <td align="center"><input type="radio" name="e" value="81">81</td>
-    <td align="center"><input type="radio" name="i" value="32">32</td>
-    <td align="center"><input type="radio" name="n" value="68">68</td>
+    <td align="center"><input type="radio" name="i" value="24">24</td>
+    <td align="center"><input type="radio" name="n" value="54">54</td>
     <td align="center"><input type="radio" name="r" value="18">18</td>
   </tr>
   <tr>
     <td align="center"><input type="radio" name="a" value="36">36</td>
     <td align="center"><input type="radio" name="e" value="72">72</td>
-    <td align="center"><input type="radio" name="i" value="24">24</td>
+    <td align="center"><input type="radio" name="i" value="26">26</td>
     <td align="center"><input type="radio" name="n" value="57">57</td>
     <td align="center"><input type="radio" name="r" value="11">11</td>
   </tr>
@@ -46,7 +46,7 @@ table{ font-family:Verdana, Geneva, sans-serif; font-size:13px; font-weight:bold
     <td align="center"><input type="radio" name="a" value="56">56</td>
     <td align="center"><input type="radio" name="e" value="81">81</td>
     <td align="center"><input type="radio" name="i" value="36">36</td>
-    <td align="center"><input type="radio" name="n" value="54">54</td>
+    <td align="center"><input type="radio" name="n" value="52">52</td>
     <td align="center"><input type="radio" name="r" value="22">22</td>
   </tr>
   <tr>
@@ -73,7 +73,7 @@ table{ font-family:Verdana, Geneva, sans-serif; font-size:13px; font-weight:bold
   <tr>
     <td align="center"><input type="radio" name="b" value="49">49</td>
     <td align="center"><input type="radio" name="f" value="48">48</td>
-    <td align="center"><input type="radio" name="j" value="32">32</td>
+    <td align="center"><input type="radio" name="j" value="34">34</td>
     <td align="center"><input type="radio" name="o" value="32">32</td>
     <td align="center"><input type="radio" name="s" value="42">42</td>
   </tr>
@@ -102,34 +102,34 @@ table{ font-family:Verdana, Geneva, sans-serif; font-size:13px; font-weight:bold
     <td align="center">3) 5x7 é igual a ?</td>
     <td align="center">7) 3x9 é igual a ?</td>
     <td align="center">11) 12x8 é igual a ?</td>
-    <td align="center">15) 9x11 é igual a ?</td>
+    <td align="center">15) 9x12 é igual a ?</td>
     <td align="center">19) 32x5 é igual a ?;</td>
   </tr>
   <tr>
     <td align="center"><input type="radio" name="c" value="56">38</td>
     <td align="center"><input type="radio" name="g" value="28">28</td>
     <td align="center"><input type="radio" name="l" value="94">94</td>
-    <td align="center"><input type="radio" name="p" value="99">99</td>
+    <td align="center"><input type="radio" name="p" value="102">102</td>
     <td align="center"><input type="radio" name="t" value="156">156</td>
   </tr>
   <tr>
     <td align="center"><input type="radio" name="c" value="35">35</td>
     <td align="center"><input type="radio" name="g" value="33">33</td>
-    <td align="center"><input type="radio" name="l" value="102">102</td>
+    <td align="center"><input type="radio" name="l" value="92">92</td>
     <td align="center"><input type="radio" name="p" value="101">101</td>
     <td align="center"><input type="radio" name="t" value="128">128</td>
   <tr>
    <td align="center"><input type="radio" name="c" value="37">37</td>
     <td align="center"><input type="radio" name="g" value="24">24</td>
     <td align="center"><input type="radio" name="l" value="98">98</td>
-    <td align="center"><input type="radio" name="p" value="89">89</td>
+    <td align="center"><input type="radio" name="p" value="108">108</td>
     <td align="center"><input type="radio" name="t" value="160">160</td>
   </tr>
   <tr>
     <td align="center"><input type="radio" name="c" value="42">42</td>
     <td align="center"><input type="radio" name="g" value="27">27</td>
     <td align="center"><input type="radio" name="l" value="96">96</td>
-    <td align="center"><input type="radio" name="p" value="97">97</td>
+    <td align="center"><input type="radio" name="p" value="103">103</td>
     <td align="center"><input type="radio" name="t" value="162">162</td>
   </tr>
   <tr>
